@@ -9,7 +9,7 @@ The code consists of three scripts:
 
 * CrossSection.py -- This script contains the form factors and cross sections of dark matter-hydrogen interactions (see section 2.2 in the paper)
 * DiffEqs.py -- Contains functions that calculate how the spin temperature evolves with redshift
-* PlotsForPaper.py -- Code to produces the plots seen in the paper
+* PlotsForPaper.py -- Code to produce the plots seen in the paper
 
 If you have any questions, please email me (axel.widmark@fysik.su.se).
 
